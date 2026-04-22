@@ -9,7 +9,7 @@ let isAnimating = false;
 function galleryAnimation() {
   animation = lottie.loadAnimation({
     //kriterier, hvad skal den hentes som, skal der være loop, autoplay og hvor kommer den fra?
-    container: document.getElementById("lottie-kasse"),
+    container: document.getElementById("lottie-container"),
     renderer: "svg",
     loop: true,
     autoplay: true,

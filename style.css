@@ -1,0 +1,15 @@
+#lottie-container {
+  width: auto;
+  height: 800px;
+  margin: 1rem auto;
+}
+
+body {
+  background: radial-gradient(
+    circle at 25% 20%,
+    #ffd089 0%,
+    #ff8a00 35%,
+    #9b59b6 70%,
+    #4b2b6a 100%
+  );
+}
